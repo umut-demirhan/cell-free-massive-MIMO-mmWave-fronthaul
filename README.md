@@ -1,4 +1,4 @@
-## Cell-Free ISAC MIMO Systems: Joint Sensing and Communication Beamforming
+## Enabling cell-free massive MIMO systems with wireless millimeter wave fronthaul
 
 The implementation for the simulations of the paper "[Enabling cell-free massive MIMO systems with wireless millimeter wave fronthaul](https://ieeexplore.ieee.org/abstract/document/9786576/)".
 
